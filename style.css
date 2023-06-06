@@ -1,0 +1,45 @@
+/* Basic styling */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.main {
+  margin: 20px;
+}
+
+.job-listings li {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.job-details {
+  margin-top: 20px;
+}
+
+/* Apply button styling */
+
+.apply-button {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.apply-button:hover {
+  background-color: #45a049;
+}
